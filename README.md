@@ -1,4 +1,4 @@
-# Hangman
+# Hangman game
 C++, simple hanman game
 
 #### URL
