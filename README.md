@@ -5,8 +5,8 @@ C++, simple hanman game
 https://blockdmask.tistory.com/369
 
 #### Main Scene
->press `s` : start game.
->press `q` : quit game.
+press `s` : start game.  
+press `q` : quit game.
 
 #### Game Scene  
->input `qq` for going back main scene.
+input `qq` for going back main scene.
