@@ -1,5 +1,5 @@
 # Hangman game
-C++, simple hanman game
+C++, simple hangman game
 
 #### URL
 https://blockdmask.tistory.com/369
