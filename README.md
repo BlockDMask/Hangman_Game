@@ -2,7 +2,8 @@
 C++, simple hangman game
 
 #### URL
-https://blockdmask.tistory.com/369
+https://blockdmask.tistory.com/369   
+https://youtu.be/xWYOIZOlKp8   
 
 #### Main Scene
 press `s` : start game.  
